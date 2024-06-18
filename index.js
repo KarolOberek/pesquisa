@@ -1,3 +1,4 @@
+// legal, colega :)))))))))
 let usuarios = [
     { nome: 'João', email: 'joao@Gmail.com', idade: 30 },
     { nome: 'Maria', email: 'maria@Gmail.com', idade: 25 },
